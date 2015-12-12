@@ -1,0 +1,27 @@
+
+
+a.name{
+  color: #FFFFFF;
+  font-family: 'Rock Salt';
+  text-decoration: none;
+  font-size: 1.2rem;
+}
+
+a:hover.name {
+  color: #00FF00;
+  text-decoration: none;
+}
+
+.item{
+	font-family: 'Walter Turncoat';
+	font-size: 1.2rem;
+}
+
+
+#banner {
+  background: url("/assets/images/panorama2.jpg")  top center;
+  background-position: top center;
+  color: white;
+  height:340px;
+}
+
